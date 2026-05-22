@@ -22,10 +22,10 @@ Results generated after executing ppo_continuous_actions.py file in CleanRL Gith
 
 |Environment|Mean Episodic Return ± Std. deviation|Comparison with documentation values|
 |---|---|---|
-|HalfCheetah-v4| 1868.4 ± 622.7|Better|
-|Walker2d-v4| 3650.7 ± 1085.4|Better|
+|HalfCheetah-v4| 1868.4 ± 622.7|**Better**|
+|Walker2d-v4| 3650.7 ± 1085.4|**Better**|
 |Hopper-v4| 2301.3 ± 892.4|Close|
-|Humanoid-v4| 783.4 ± 169.6|Better|
+|Humanoid-v4| 783.4 ± 169.6|**Better**|
 |Pusher-v4| -49.4 ± 15.6|Close|
 
 
