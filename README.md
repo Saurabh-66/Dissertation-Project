@@ -1,7 +1,7 @@
 # Dissertation Project
 
 ## CleanRL results
-The results mentioned in the github repository (cleanrl)![https://github.com/vwxyzjn/cleanrl] and the (documentation)![https://docs.cleanrl.dev/rl-algorithms/ppo/].
+The results mentioned in the github repository !(cleanrl)[https://github.com/vwxyzjn/cleanrl] and the (documentation)![https://docs.cleanrl.dev/rl-algorithms/ppo/].
 
 The tasks selected were continuous actions tasks in Mujoco environment (executing ppo_continuous_actions.py file).
 Environments executed and results replicated: HalfCheetah-v4, Walker2d-v4, Hopper-v4, Humanoid-v4, Pusher-v4
