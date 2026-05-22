@@ -1,16 +1,16 @@
 # Dissertation Project
 
 ## CleanRL results
-The results mentioned in the github repository (cleanrl)[https://github.com/vwxyzjn/cleanrl] and the (documentation)[https://docs.cleanrl.dev/rl-algorithms/ppo/].
+The results mentioned in the github repository (cleanrl)![https://github.com/vwxyzjn/cleanrl] and the (documentation)![https://docs.cleanrl.dev/rl-algorithms/ppo/].
 
 The tasks selected were continuous actions tasks in Mujoco environment (executing ppo_continuous_actions.py file).
-Environments executed and results replicated: HalfCheetah-v4, Hopper-v4, Humanoid-v4, Pusher-v4, Walker2d-v4
+Environments executed and results replicated: HalfCheetah-v4, Walker2d-v4, Hopper-v4, Humanoid-v4, Pusher-v4
 
 ## Results 
 
 Results mentioned on CleanRL documentation
 
-|Environment|Mean Episodic Return + Std. deviation|
+|Environment|Mean Episodic Return ± Std. deviation|
 |---|---|
 |HalfCheetah-v4|	1442.64 ± 46.03|
 |Walker2d-v4|	2287.95 ± 571.78|
@@ -21,7 +21,7 @@ Results mentioned on CleanRL documentation
 
 Results generated after executing ppo_continuous_actions.py file in CleanRL Github (10 different seeds for each environment)
 
-|Environment|Mean Episodic Return + Std. deviation|Comparison with documentation values|
+|Environment|Mean Episodic Return ± Std. deviation|Comparison with documentation values|
 |---|---|---|
 |HalfCheetah-v4| 1868.4 ± 622.7|Better|
 |Walker2d-v4| 3650.7 ± 1085.4|Better|
